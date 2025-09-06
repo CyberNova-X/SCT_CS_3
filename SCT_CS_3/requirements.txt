@@ -1,0 +1,20 @@
+# 🔐 SCT_CS_3 – Advanced Password Strength Checker
+
+This project is part of my Cyber Security Internship at **SkillCraft Technology**.
+
+## 📌 Overview
+A Python CLI tool that evaluates **password strength** using:
+- Length
+- Uppercase letters
+- Lowercase letters
+- Digits
+- Special characters
+- Entropy (bits of security)
+
+It categorizes a password as **Weak, Medium, or Strong** and provides actionable suggestions.
+
+## 🚀 Installation & Setup
+
+Clone the repo:
+```bash
+cd SCT_CS_3
